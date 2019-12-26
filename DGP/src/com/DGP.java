@@ -25,6 +25,7 @@ public class DGP {
 		System.out.print(" "+ns.length());
 		System.out.print(" "+(a.length()-ns.length()));
 		System.out.printf("\n%d..........123.........%d",a.length(),c);
+		System.out.println("You are in Git");
 		input.close();
 	}
 }
