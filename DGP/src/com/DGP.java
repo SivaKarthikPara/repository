@@ -28,7 +28,7 @@ public class DGP {
 		/*
 		 * A dummy line
 		 * System.out.println("You are in Git");
-		 * 
+		 * System.out.println("You are in Git");
 		 */
 		input.close();
 	}
