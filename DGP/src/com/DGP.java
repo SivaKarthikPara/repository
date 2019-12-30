@@ -31,6 +31,7 @@ public class DGP {
 		 * 
 		 */
 		System.out.println("Creating first tag");
+		System.out.println("After first tag");
 		input.close();
 	}
 }
