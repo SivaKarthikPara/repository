@@ -30,6 +30,7 @@ public class DGP {
 		 * System.out.println("You are in Git");
 		 * 
 		 */
+		System.out.println("Creating first tag");
 		input.close();
 	}
 }
