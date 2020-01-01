@@ -1,4 +1,4 @@
-package com;
+//package com;
 
 public class GN {
 	public static void main(String [] args){
