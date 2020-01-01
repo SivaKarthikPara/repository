@@ -1,3 +1,7 @@
+package com;
+
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class DGP {
 	public static void main(String [] args){
